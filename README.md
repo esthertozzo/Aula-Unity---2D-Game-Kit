@@ -13,4 +13,4 @@ O objetivo principal da fase é fazer com que o jogador possa enfrentar desafios
 O estilo do level foca em ***plataforma***, já que para conseguir ultrapassar obstáculos, usar plataformas móveis e evitar armadilhas, é necessário um certo cálculo por parte do jogador, usando de forma precisa suas estratégias para realizar saltos simples ou então mais difíceis. Entretanto, outro estilo presente no level diz respeito à ***sobrevivência*** do jogador. Algumas armadilhas colocadas em seu caminho e também inimigos causam uma sensação de urgência, onde recursos como as vidas estão presentes em lugares difíceis de alcançar, exigindo maior atenção também.
 
 #### Link com esboço do level
-
+https://www.figma.com/design/w35LNV6HbUiMVMAHFo9FTv/AC01-2%C2%B0TRI?node-id=0-1&t=bmpdFGObWLRWJeLJ-1
